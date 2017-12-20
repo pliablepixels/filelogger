@@ -1,8 +1,10 @@
 {
   "name": "filelogger",
-  "homepage": "https://github.com/pbakondy/filelogger",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hreimer/filelogger",
   "authors": [
-    "Peter Bakondy <pbakondy@gmail.com>"
+    "Peter Bakondy <pbakondy@gmail.com>",
+    "Heinrich Reimer <heinrich.reimer@gmail.com>"
   ],
   "description": "Ionic library to log messages to local filesystem",
   "main": "./dist/filelogger.min.js",
