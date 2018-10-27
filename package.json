@@ -2,10 +2,10 @@
   "name": "ionic-filelogger",
   "private": false,
   "main": "dist/filelogger",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbakondy/filelogger.git"
+    "url": "https://github.com/pliablepixels/filelogger.git"
   },
   "devDependencies": {
     "gulp-footer": "^1.0.5",
